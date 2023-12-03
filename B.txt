@@ -1,0 +1,14 @@
+Pilihan Mobil
+1. Manual
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Mesin		: 1200cc
+Bensin 		: Pertalite
+Penumpang	: 6
+////////////////////////////////////
+
+2. Automatic
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Mesin		: 1200cc
+Bensin		: Pertalite 
+Penumpang 	: 6
+////////////////////////////////////

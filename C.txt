@@ -1,0 +1,14 @@
+Pilihan Mobil
+1. Manual - Diesel
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Mesin		: 2400cc
+Bensin 		: Dex
+Penumpang	: 8
+////////////////////////////////////
+
+2. Automatic - Bensin
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Mesin		: 2000cc
+Bensin		: Pertamax
+Penumpang 	: 8
+////////////////////////////////////
